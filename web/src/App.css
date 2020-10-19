@@ -1,0 +1,44 @@
+.card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 30px;
+  min-height: 24rem;
+}
+form {
+  
+  max-width: 350px;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 3px 24px -8px rgba(0, 0, 0, 0.75);
+}
+
+.name-field {
+  margin-bottom: 40px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  color: #ffffff;
+  background: #5000ca;
+  border-radius: 5px;
+}
+#hdr{
+  color: #ffffff;
+  margin-left: 40vw;
+  position: absolute;
+}
+.render-chat {
+  max-width: 350px;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 3px 24px -8px rgba(0, 0, 0, 0.75);
+}
+
+h3 {
+  color:black;
+}
+
+span {
+  color: #5000ca;
+}
